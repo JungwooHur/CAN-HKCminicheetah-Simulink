@@ -1,4 +1,4 @@
-# CAN_command_HKCminicheetah_Simulink_embedded_coder_f28379d
+# CAN HKCminicheetah Simulink
 written for RIM-lab
 mostly from Hangyeoul Song
 
